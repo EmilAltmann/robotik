@@ -27,7 +27,7 @@ Else you can use a screw with a nut locket approximately at the right length.
 **NOW** you can remove the four long screws from the servo.
 Watch out for the rubber grommet when removing the back cover.
 With an "sharp" soldering iron you can now desolder the red positive and brown negative connection.
-<img width="500" alt="Unscrewing the servo" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/MG955/pictures/unsrewed.png">
+<img width="500" alt="Unscrewing the servo" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/MG955/pictures/unscrewed.png">
 
 #### 3. adding the buck converter:
 Next you can solder the red and brown wires to the input of the buck converter. 
@@ -36,7 +36,7 @@ For setting the output voltage supply the servo with your supply voltage,
 then you can hold the buck converter with your multimeter probes down and turn the poti until the converter outputs approximately 5V.
 After that you can solder the two wires to the output and sleeve the whole buck converter with the heat-shrink.
 
-<img height="300" alt="the installation of the buck converter" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/MG955/pictures/regulator_soldered.png"><img height="300" alt="and the same sleeved" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/MG955/pictures/regulator_headshrinked.png">
+<img height="300" alt="the installation of the buck converter" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/MG955/pictures/regulator_soldered.png"><img height="300" alt="and the same sleeved" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/MG955/pictures/regulator_heatshrinked.png">
 
 #### 4. putting it all together:
 Again with an "sharp" soldering iron you can solder the output of the buck converter to the servo control board.
