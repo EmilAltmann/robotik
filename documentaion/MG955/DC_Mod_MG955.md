@@ -11,7 +11,7 @@ So the Idea is to put one of them into every servo.
   * DC-DC buck converter with a size of 12x18mm
   * 2x 5cm cable
   * 20mm of heat shrink which fits around the buck converter
-![alt text](https://github.com/EmilAltmann/robotik/tree/main/documentaion/MG955/pictures/BOM.JPG "Bill of materials")
+![alt text](https://github.com/EmilAltmann/robotik/tree/main/documentaion/MG955/pictures/BOM.png "Bill of materials")
 
 #### 1. Securing the gearbox:
 You will have a bad day if you remove the four screws of the motor directly.
