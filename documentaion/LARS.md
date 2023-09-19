@@ -1,6 +1,6 @@
 # LARS kit:
 
-<img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/LARS.JPG">
+<img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/LARS.JPG">
 
 The **L**ichtenberg **A**rduno **R**obotic **S**hield is a prototype arduino shield developed in 2021/2022 by Emil Altmann.
 It's consists of an arduino prototype shield v.5, servos and sensors.
