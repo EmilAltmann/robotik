@@ -17,7 +17,7 @@ pin 3 <-> GND
 pin 4 <-> +5v
 pin 5 <-> interrupt IN
 
-<img height="300" alt="Pinout of the positional servo" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/deg_servo.JPG"><img height="300" alt="Pinout of the free running servo" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/rot_servo.JPG">
+<img height="300" alt="Pinout of the positional servo" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/deg_servo.jpg"><img height="300" alt="Pinout of the free running servo" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/rot_servo.jpg">
 
 ###The ultrasonic modules:
 The ultrasonic module wired to a JST-XH 4 pin connector.
@@ -29,9 +29,9 @@ pin 2 <-> Trig
 pin 3 <-> Echo
 pin 4 <-> GND
 
-<img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/ultrasonic.JPG">
+<img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/ultrasonic.jpg">
 
 ###The switches:
 The switches use a 2 pin JST-XH connector.
 
-<img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/switch.JPG">
+<img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/switch.jpg">
