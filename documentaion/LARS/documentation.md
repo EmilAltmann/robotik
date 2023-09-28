@@ -3,12 +3,13 @@
 <img width="500" alt="LARS" src="https://github.com/EmilAltmann/robotik/blob/main/documentaion/LARS/pictures/LARS_and_Arduino.JPG">
 
 In this folder there are the schematic of the Arduino Uno hat as well as some further resources.
-The hat can be build with an Arduino Prototype Shield v5.
+The hat can be build with an Arduino Prototype Shield v5 or made as a custom 2 layer PCB.
+The PCB files are constructed with the KiCAD software (www.kicad.org), so you have to export the gerber files according to your producer.
 
 ###The servos:
 The servos are MG955 RC servos modified to run on more than 5v.
 Where the positional servos are able to rotate 270° and are equipped with an 3 pin JST-XH connector.
-Moreover the free running servos are configured with an 5 pin JST-XH of which the interrupt pin can be used for further sensors or as I did broken out into a dupontstyle female header.
+Moreover the free running servos are configured with an 5 pin JST-XH of which the interrupt pin can be used for further sensors or as I did broken out into a DuPont style female header.
 
 The pinout is:
 pin 1 <-> pwm
